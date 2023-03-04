@@ -1,5 +1,5 @@
 <?php
-$data = "Select * from siswa";
+$query = "Select * from siswa";
 
 
 echo $query;

@@ -10,13 +10,14 @@ $siswa = ['siswa1','siswa2','siswa3','siswa4'];
         
         <ul>
             <?php
-                if(coun($siswa) > 0){
+                if(count($siswa) > 0){
                     foreach($siswa as $siswa) { ?>
                     
-                    <li><?php echo $data ?></li>
+                    <li><?php echo $siswa ?></li>
                 
                 <?php
                     }
+                }
                  ?>
         </ul>
         <!--

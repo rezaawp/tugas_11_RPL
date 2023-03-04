@@ -5,6 +5,6 @@
     }
     
 
-    sapas();
+    sapa();
 
     // eksptesi output : haii Selamat Datang

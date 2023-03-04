@@ -1,7 +1,9 @@
 <?php
     $kkm = 75;
     $nilai = 90;
-    if($nilai > kkm){
+    if($nilai > $kkm){
         echo "anda lulus";
-
-    echo "anda gagal";
+    } else {
+        echo "anda gagal";
+    }
+    

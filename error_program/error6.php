@@ -2,6 +2,6 @@
 
 $sapa = "Halooo";
 
-eco "$sapa Semua";
+echo "$sapa Semua";
 
 // expetasi output : Halooo Semua

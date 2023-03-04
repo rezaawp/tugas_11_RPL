@@ -1,6 +1,6 @@
 <?php
 
-$sapa = "Halooo"
+$sapa = "Halooo";
 
 echo "$sapa Semua";
 

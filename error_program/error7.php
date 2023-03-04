@@ -1,11 +1,12 @@
 <?php
 
-    $items = ['item1', 'item2', 'item3']
+    $items = ['item1', 'item2', 'item3'];
     if(count($items) == 0){
         echo "Item Kosong";
     }else{
         foreach ($items as $item) {
             echo "Item : $item" ."<br />"; 
+        }
     }
     
     
